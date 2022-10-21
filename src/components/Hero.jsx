@@ -9,21 +9,18 @@ const Hero = () => {
         <nav>
             <ul>
                 <li>
-                  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Exchange</a>
+                  <a href="https://swap.sirenstreasure.tk" target="_blank" rel="noopener noreferrer">Exchange</a>
                 </li>
                 <li>
-                  <a href="https://example.com" color='#fff' target="_blank" rel="noopener noreferrer">Documentation</a>
+                  <a href="https://docs.sirenstreasure.tk" color='#fff' target="_blank" rel="noopener noreferrer">Documentation</a>
                 </li>
                 <li>
-                  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Mermaid Friends NFT's</a>
+                  <a href="https://nft.sirenstreasure.tk" target="_blank" rel="noopener noreferrer">Mermaid Friends NFT's</a>
                 </li>
             </ul>
         </nav>
         <div className="overlay"></div>
         <video src={BgVideo} autoPlay loop muted />
-        <div className="content">
-            <h1>Sirens Treasure</h1>
-        </div>
 
     </main>
   )
