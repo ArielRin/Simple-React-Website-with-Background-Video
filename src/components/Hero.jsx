@@ -8,23 +8,23 @@ const Hero = () => {
     <main>
         <nav>
             <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Skills</li>
-                <li>Services</li>
-                <li>Contact</li>
+                <li>
+                  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Exchange</a>
+                </li>
+                <li>
+                  <a href="https://example.com" color='#fff' target="_blank" rel="noopener noreferrer">Documentation</a>
+                </li>
+                <li>
+                  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Mermaid Friends NFT's</a>
+                </li>
             </ul>
         </nav>
         <div className="overlay"></div>
         <video src={BgVideo} autoPlay loop muted />
         <div className="content">
-            <h1>Hello, I am Dela Ricch</h1>
-            <p>A Junior Front End Web Developer based in Tema, Ghana. I am a Computer Science Student at the moment. I'm quietly confident, naturally curious, and perpetually working on improving my skills.</p>
+            <h1></h1>
         </div>
-       <div className="btn">
-        <button className='contact'>Let' Talk</button>
-            <button className='resume'>Download Resume</button>
-       </div>
+
     </main>
   )
 }
