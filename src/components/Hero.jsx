@@ -22,7 +22,7 @@ const Hero = () => {
         <div className="overlay"></div>
         <video src={BgVideo} autoPlay loop muted />
         <div className="content">
-            <h1></h1>
+            <h1>Sirens Treasure</h1>
         </div>
 
     </main>
