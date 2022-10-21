@@ -19,8 +19,17 @@ nav ul li {
     transition: color .3s linear;
 }
 
+a.mylink:visited {
+  color: white;
+  text-decoration: none;
+}
 nav ul li a:hover {
     color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+
 }
 
 video {
