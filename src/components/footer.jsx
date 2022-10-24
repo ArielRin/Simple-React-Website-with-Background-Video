@@ -13,16 +13,10 @@ const Hero = () => {
                   <a class="mylink" href="https://swap.sirenstreasure.tk" target="_blank" rel="noopener noreferrer">Exchange</a>
                 </li>
                 <li>
-                  <a class="mylink" href="https://docs.sirenstreasure.tk" color='#fff' target="_blank" rel="noopener noreferrer">Docs</a>
+                  <a class="mylink" href="https://docs.sirenstreasure.tk" color='#fff' target="_blank" rel="noopener noreferrer">Documentation</a>
                 </li>
                 <li>
-                  <a class="mylink" href="https://nft.sirenstreasure.tk" target="_blank" rel="noopener noreferrer">NFT's</a>
-                </li>
-                <li>
-                  <a class="mylink" href="https://github.com/ArielRin" target="_blank" rel="noopener noreferrer">Github</a>
-                </li>
-                <li>
-                  <a class="mylink" href="https://twitter.com/SirenTrove_DEX" target="_blank" rel="noopener noreferrer">Twitter</a>
+                  <a class="mylink" href="https://nft.sirenstreasure.tk" target="_blank" rel="noopener noreferrer">Mermaid Friends NFT's</a>
                 </li>
             </ul>
         </nav>
