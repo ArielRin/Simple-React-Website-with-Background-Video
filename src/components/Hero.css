@@ -38,6 +38,13 @@ video {
     object-fit: cover;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .overlay {
     position: absolute;
     top: 0;
