@@ -1,6 +1,5 @@
 import React from 'react'
 import BgVideo from './Bgvideo.mp4'
-import Logo from './logo.gif';
 
 import './Hero.css'
 
