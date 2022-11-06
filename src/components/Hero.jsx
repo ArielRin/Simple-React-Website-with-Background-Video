@@ -1,7 +1,6 @@
 import React from 'react'
 import BgVideo from './Bgvideo.mp4'
 import Logo from './logo.gif';
-import ReactDOM from "react-dom";
 
 import './Hero.css'
 
@@ -29,11 +28,6 @@ const Hero = () => {
         </nav>
         <div className="overlay"></div>
         <video src={BgVideo} autoPlay loop muted />
-
-
-        <div className="content" >
-        <img style={{ width: 930, height: 225  }} className="center" src={Logo} alt="Sirens Treasure" />
-        </div>
     </main>
   )
 }
